@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fragments test</string>
+    <string name="start_message">Стартовый экран</string>
+    <string name="first_fragment">Первый фрагмент</string>
+    <string name="second_fragment">Второй фрагмент</string>
+    <string name="sent_button">Отправить</string>
+    <string name="accept_button">Принять</string>
+</resources>
